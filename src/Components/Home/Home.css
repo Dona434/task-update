@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@500&display=swap');
+
+.card{
+    margin-left: 30rem;
+    display: flex;
+    justify-content: left;
+    margin-top: 15px;
+}
+
+.transform{
+    color: #C2C2C2;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.28px;
+    margin-left: -368px;
+    margin-bottom: 0px;
+}
+.sre{
+    color: #000;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    margin-left: -368px;
+    font-family: Readex Pro;
+}
+.trans-sre{
+    margin-top: 20px;
+}
+.content{
+    color: #494949;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: normal;
+    letter-spacing: 0.18px;
+    width: 680px;
+    margin-left: -368px;
+    font-family: Readex Pro;
+    margin-bottom: 40px;
+}
+
+.features{
+    color: #000;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    margin-left: -368px;
+    margin-bottom: 20px;
+    font-family: Readex Pro;
+}
+.lists{
+    margin-left: -368px;
+    margin-bottom: 40px;
+    color: #494949;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: 0.18px;
+    font-family: Readex Pro;
+}
+.benefits{
+    color: #000;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    margin-left: -368px;
+    margin-bottom: 20px;
+    font-family: Readex Pro;
+}
+.lists2{
+    margin-left: -368px;
+    color: #494949;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: 0.18px;
+    font-family: Readex Pro;
+}
